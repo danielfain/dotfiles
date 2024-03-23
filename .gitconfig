@@ -1,0 +1,5 @@
+[user]
+	name = Daniel Fain
+	email = daniel@fain.dev
+[init]
+	defaultBranch = main
